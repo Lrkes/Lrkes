@@ -1,8 +1,3 @@
-<h1 align="center">Hi there, I'm Lrkes 👋</h1>
-<p align="center"><i>Student at RWTH Aachen</i></p>
-
----
-
 ### 🙋 About me
 
 - 🎓 Master's student in HCIS at RWTH Aachen
