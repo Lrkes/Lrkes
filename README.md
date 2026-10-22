@@ -1,7 +1,6 @@
 ### Hi, I'm Lukas 👋
 
 HCIS master's student at **RWTH Aachen** · B.Sc. Computer Science, **TH Lübeck**
-Exploring how to work well with AI tools.
 
 <img src="https://skillicons.dev/icons?i=ts,python,react" height="36" alt="TypeScript, Python, React" />
 
